@@ -1,0 +1,16 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz",
+  "main": "fizzbuzz.js",
+  "repository": "https://github.com/johntwyman/fizzbuzz.git",
+  "author": "John Twyman",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
